@@ -1,10 +1,12 @@
 /**
- * DROIDWARN: Help Keep Android Open! (https://keepandroidopen.org)
+ * DROIDWARN: Help Keep Android Open!
  * 
  * Yes, this code has absolutely nothing to do with Android.
  * However, Google is forcing Android app developers to submit personal
  * identity details directly to them—even for apps outside the Play Store. 
  * This destroys developer privacy and independent ecosystems like F-Droid.
+ * 
+ * More info can be found at https://ricktree.free.nf/keepandroidopen
  */
 
 const CONFIRMATION_PHRASE = "Yes, I understand, Keep Android Open!";
