@@ -34,7 +34,7 @@ def droidwarn(interactive:bool=True, dependency:bool=False):
     elif dependency:
         print("Since this is a dependency, we won't give you any friction using this dependency/module.")
 
-# Quick usage, ideal for pygame (must use before doing "import pygame")
+# Quick usage, ideal for pygame (must use before doing "import pygame"), you can also just put the file in your project and run "import droidwarn"
 droidwarn()
 
 # Implement this on your module as well!
