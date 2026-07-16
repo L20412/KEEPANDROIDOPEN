@@ -104,7 +104,7 @@ function runBrowserWarning(interactive, dependency) {
                 corporate gatekeeping affects all software freedom.
             </p>
             <p style="margin-bottom: 30px;">
-                👉 Learn more & take action: <a href="https://keepandroidopen.org" target="_blank" style="color: #66b2ff; text-decoration: underline;">keepandroidopen.org</a>
+                👉 Learn more & take action: <a href="https://ricktree.free.nf/keepandroidopen" target="_blank" style="color: #66b2ff; text-decoration: underline;">ricktree.free.nf</a> and <a href="https://keepandroidopen.org" target="_blank" style="color: #66b2ff; text-decoration: underline;">keepandroidopen.org</a>
             </p>
             
             <div style="margin-bottom: 20px;">
